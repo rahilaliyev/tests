@@ -1,7 +1,7 @@
 // !Do not change test cases
 const { describe } = require("@jest/globals");
 
-const palindrome = require("../task1");
+const palindrome = require("../index");
 
 const { testCasesTask1 } = require("../utils/cases");
 
