@@ -1,8 +1,3 @@
-const palindrome = (arr)=>{
-  const reverse = arr.split("").reverse().join("")
-  return reverse === arr
-}
-
-console.log(palindrome("ana"))
+const palindrome = (arr) => {};
 
 module.exports = palindrome;
